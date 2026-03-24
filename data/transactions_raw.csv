@@ -1,0 +1,501 @@
+id,date,amount,currency,merchant_name,merchant_category,transaction_type,account_type,user_id,month,year,is_recurring,is_anomaly
+txn_acfd1f4493,2025-10-29,36.31,usd,Dunkin,food_and_drink,debit,credit_card,user_003,10,2025,0,0
+txn_336f62ad73,2026-01-16,189.01,usd,Trader Joes,groceries,debit,checking,user_003,1,2026,0,0
+txn_7b60910ee7,2025-12-03,122.16,usd,CVS,health,debit,checking,user_003,12,2025,0,0
+txn_12e720465c,2026-01-12,62.86,usd,Uber,transport,debit,checking,user_003,1,2026,0,0
+txn_d0f06f0ae1,2025-11-26,2063.91,usd,Rent Payment,rent,debit,checking,user_001,11,2025,1,0
+txn_69b87aca77,2025-10-28,39.88,usd,NJ Transit,transport,debit,credit_card,user_002,10,2025,0,0
+txn_5340675486,2026-02-28,5226.88,usd,Tax Refund,income,credit,credit_card,user_002,2,2026,0,0
+txn_fdf1450f80,2025-10-28,19.97,usd,Starbucks,food_and_drink,debit,credit_card,user_002,10,2025,0,0
+txn_f3ca4c97a2,2025-11-17,57.96,usd,McDonalds,food_and_drink,debit,checking,user_003,11,2025,0,0
+txn_a0827034a4,2026-01-22,33.44,usd,Trader Joes,groceries,debit,checking,user_001,1,2026,0,0
+txn_2617f67ed0,2026-01-17,42.07,usd,Starbucks,food_and_drink,debit,credit_card,user_002,1,2026,0,0
+txn_41cc97991a,2026-02-12,30.45,usd,Dunkin,food_and_drink,debit,credit_card,user_003,2,2026,0,0
+txn_c5cac5ac2b,2025-11-23,1981.41,usd,Rent Payment,rent,debit,credit_card,user_002,11,2025,1,0
+txn_0207f3aeac,2026-02-26,54.75,usd,Verizon,utilities,debit,checking,user_002,2,2026,1,0
+txn_8a74c943a3,2025-12-27,45.83,usd,Shake Shack,food_and_drink,debit,checking,user_002,12,2025,0,0
+txn_9427dbae51,2026-01-22,22.51,usd,EZPass,transport,debit,credit_card,user_002,1,2026,0,0
+txn_dbef853466,2025-11-14,10.23,usd,Citi Bike,transport,debit,checking,user_003,11,2025,0,0
+txn_5d2e0f9fcc,2025-10-29,4248.95,usd,Freelance Payment,income,credit,checking,user_001,10,2025,0,0
+txn_4cf1e494fc,2025-10-04,72.83,usd,Lyft,transport,debit,credit_card,user_001,10,2025,0,0
+txn_0bca26d583,2025-12-22,13.82,usd,NJ Transit,transport,debit,checking,user_002,12,2025,0,0
+txn_ea2648ed27,2026-01-26,57.26,usd,Uber,transport,debit,credit_card,user_002,1,2026,0,0
+txn_5af9ea7d87,2025-12-27,13.93,usd,Netflix,subscriptions,debit,credit_card,user_001,12,2025,1,0
+txn_12097d6286,2026-01-25,45.22,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,1,2026,0,0
+txn_0dd2795df9,2025-11-13,78.94,usd,Con Edison,utilities,debit,credit_card,user_001,11,2025,1,0
+txn_04a5007383,2026-01-25,86.0,usd,Walgreens,health,debit,credit_card,user_001,1,2026,0,0
+txn_2978b937b6,2026-03-15,38.74,usd,Shake Shack,food_and_drink,debit,credit_card,user_002,3,2026,0,0
+txn_f473006b48,2025-12-11,126.86,usd,Zara,shopping,debit,checking,user_003,12,2025,0,0
+txn_21df26fcdc,2026-02-25,73.21,usd,EZPass,transport,debit,credit_card,user_001,2,2026,0,0
+txn_1c9efb66e6,2026-02-04,13.19,usd,Lyft,transport,debit,checking,user_003,2,2026,0,0
+txn_f3b5bcfd48,2026-01-24,52.35,usd,Lyft,transport,debit,credit_card,user_001,1,2026,0,0
+txn_783956942e,2026-03-14,8.36,usd,NJ Transit,transport,debit,credit_card,user_001,3,2026,0,0
+txn_c7e39d9f07,2025-11-14,194.95,usd,Costco,groceries,debit,credit_card,user_002,11,2025,0,0
+txn_f61697eb27,2026-01-19,52.94,usd,Chipotle,food_and_drink,debit,credit_card,user_002,1,2026,0,0
+txn_d13db0604f,2026-01-22,39.59,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,1,2026,0,0
+txn_a5d52e04f1,2026-03-21,212.66,usd,Walgreens,health,debit,checking,user_002,3,2026,0,0
+txn_ba4e47fe57,2025-10-04,126.68,usd,Verizon,utilities,debit,checking,user_001,10,2025,1,0
+txn_c291c99642,2025-11-03,67.49,usd,NJ Transit,transport,debit,checking,user_003,11,2025,0,0
+txn_6abd613459,2025-11-13,23.77,usd,Apple One,subscriptions,debit,credit_card,user_002,11,2025,1,0
+txn_2460cb7130,2026-02-20,64.17,usd,Costco,groceries,debit,credit_card,user_002,2,2026,0,0
+txn_445dd58761,2026-01-20,25.87,usd,Citi Bike,transport,debit,credit_card,user_002,1,2026,0,0
+txn_29b24fc703,2025-10-12,91.41,usd,Gym Membership,health,debit,credit_card,user_001,10,2025,0,0
+txn_128a5c39a8,2025-10-08,3265.59,usd,Freelance Payment,income,credit,credit_card,user_002,10,2025,0,0
+txn_1ae416ee24,2025-10-20,54.21,usd,PSE&G,utilities,debit,checking,user_002,10,2025,1,0
+txn_e2e5be4f38,2026-03-04,5002.66,usd,Payroll Direct Deposit,income,credit,checking,user_003,3,2026,0,0
+txn_9ede960629,2025-12-07,2134.26,usd,Rent Payment,rent,debit,checking,user_003,12,2025,1,0
+txn_79152c1aaf,2026-03-15,11.41,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_002,3,2026,1,0
+txn_4e16c5d60a,2025-10-04,4839.63,usd,Tax Refund,income,credit,credit_card,user_001,10,2025,0,0
+txn_62be609c6d,2025-11-28,511.16,usd,United Airlines,travel,debit,checking,user_003,11,2025,0,0
+txn_49c7249d18,2025-10-20,52.04,usd,Walmart Grocery,groceries,debit,checking,user_003,10,2025,0,0
+txn_a847a157ba,2025-10-27,53.71,usd,Stop and Shop,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_6c69cdf264,2025-12-18,4.2,usd,NJ Transit,transport,debit,checking,user_002,12,2025,0,0
+txn_6d7c3c1556,2025-12-28,166.02,usd,Target,shopping,debit,checking,user_003,12,2025,0,0
+txn_a7cc333508,2026-02-02,64.03,usd,Zara,shopping,debit,credit_card,user_001,2,2026,0,0
+txn_a46dffd9b5,2026-02-23,49.74,usd,McDonalds,food_and_drink,debit,credit_card,user_003,2,2026,0,0
+txn_623615bbf2,2026-02-25,102.73,usd,Best Buy,shopping,debit,checking,user_002,2,2026,0,0
+txn_a5267817e5,2025-10-26,37.74,usd,Sweetgreen,food_and_drink,debit,checking,user_003,10,2025,0,0
+txn_d91a77f354,2025-11-02,2163.45,usd,Rent Payment,rent,debit,checking,user_003,11,2025,1,0
+txn_0812d3d337,2025-11-17,5.4,usd,Lyft,transport,debit,credit_card,user_003,11,2025,0,0
+txn_2feeacd75e,2025-11-06,49.03,usd,Whole Foods,groceries,debit,credit_card,user_003,11,2025,0,0
+txn_5788ea59f1,2026-03-21,3147.01,usd,Tax Refund,income,credit,checking,user_001,3,2026,0,0
+txn_76768bb5ca,2025-12-03,23.72,usd,Apple One,subscriptions,debit,checking,user_002,12,2025,1,0
+txn_25d508543c,2025-11-30,147.35,usd,Costco,groceries,debit,credit_card,user_001,11,2025,0,0
+txn_10dbad7de5,2025-10-29,120.96,usd,Comcast,utilities,debit,credit_card,user_001,10,2025,1,0
+txn_22c626424d,2026-01-10,78.27,usd,Doctor Visit,health,debit,credit_card,user_003,1,2026,0,0
+txn_785041535d,2025-11-19,145.58,usd,PSE&G,utilities,debit,checking,user_001,11,2025,1,0
+txn_fff7c31590,2025-12-03,210.45,usd,Airbnb,travel,debit,checking,user_002,12,2025,0,0
+txn_ac85475bc7,2025-12-08,158.34,usd,Walgreens,health,debit,credit_card,user_001,12,2025,0,0
+txn_9bebadea0e,2026-02-01,26.09,usd,Citi Bike,transport,debit,checking,user_003,2,2026,0,0
+txn_2df2f4057e,2026-03-05,4460.24,usd,Tax Refund,income,credit,checking,user_001,3,2026,0,0
+txn_02f3163322,2025-12-08,37.9,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_f3ad3a7540,2026-02-20,13.54,usd,McDonalds,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_6798016212,2025-12-30,3879.4,usd,Payroll Direct Deposit,income,credit,credit_card,user_002,12,2025,0,0
+txn_f9d1f86a17,2026-02-14,48.97,usd,McDonalds,food_and_drink,debit,checking,user_001,2,2026,0,0
+txn_07e90f3f89,2025-12-16,21.95,usd,Amazon Prime,subscriptions,debit,credit_card,user_002,12,2025,1,0
+txn_c56800470c,2025-10-20,59.47,usd,Amazon,shopping,debit,checking,user_003,10,2025,0,0
+txn_906da357bd,2025-12-14,33.38,usd,Shake Shack,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_0af56324a9,2025-11-08,10.97,usd,Sweetgreen,food_and_drink,debit,credit_card,user_003,11,2025,0,0
+txn_97a137f90d,2025-10-22,252.26,usd,Amazon,shopping,debit,credit_card,user_002,10,2025,0,0
+txn_546cfc04f3,2026-01-17,1862.96,usd,Rent Payment,rent,debit,credit_card,user_002,1,2026,1,0
+txn_180435fe95,2026-02-26,271.53,usd,Zara,shopping,debit,checking,user_002,2,2026,0,0
+txn_085ed734c3,2025-11-11,15.48,usd,Spotify,subscriptions,debit,checking,user_002,11,2025,1,0
+txn_73be6a72be,2025-10-09,2112.23,usd,Rent Payment,rent,debit,checking,user_003,10,2025,1,0
+txn_8b584cc7f8,2026-03-14,95.26,usd,Zara,shopping,debit,credit_card,user_001,3,2026,0,0
+txn_7a05cd41f3,2026-02-03,114.97,usd,Trader Joes,groceries,debit,credit_card,user_002,2,2026,0,0
+txn_7697dd3f20,2026-02-19,76.14,usd,Lyft,transport,debit,credit_card,user_001,2,2026,0,0
+txn_283f6a8c2c,2026-02-24,185.0,usd,Comcast,utilities,debit,checking,user_001,2,2026,1,0
+txn_76e5931cfa,2026-01-17,231.98,usd,Amazon,shopping,debit,checking,user_001,1,2026,0,0
+txn_677bba3b56,2025-10-22,25.0,usd,Chipotle,food_and_drink,debit,credit_card,user_003,10,2025,0,0
+txn_11eccab5bf,2026-03-11,18.85,usd,Netflix,subscriptions,debit,checking,user_001,3,2026,1,0
+txn_3d5d334677,2025-12-30,62.11,usd,Nike,shopping,debit,checking,user_003,12,2025,0,0
+txn_084bf97968,2026-01-04,12.11,usd,Amazon Prime,subscriptions,debit,credit_card,user_002,1,2026,1,0
+txn_ea5e19e837,2025-10-26,2042.09,usd,Rent Payment,rent,debit,credit_card,user_001,10,2025,1,0
+txn_a4c19e46b3,2025-11-27,168.58,usd,PSE&G,utilities,debit,credit_card,user_002,11,2025,1,0
+txn_8140e7cd0c,2026-02-04,25.52,usd,Sweetgreen,food_and_drink,debit,checking,user_002,2,2026,0,0
+txn_5c85e347e4,2026-03-10,90.9,usd,Gym Membership,health,debit,credit_card,user_001,3,2026,0,0
+txn_789413b6f6,2025-11-02,27.43,usd,Chipotle,food_and_drink,debit,checking,user_001,11,2025,0,0
+txn_677b21402e,2026-02-01,49.58,usd,Sweetgreen,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_7398aa32b0,2025-10-13,96.04,usd,Gym Membership,health,debit,checking,user_002,10,2025,0,0
+txn_8394935eef,2025-10-07,175.04,usd,H&M,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_5e3a52ad60,2025-10-02,39.44,usd,Best Buy,shopping,debit,checking,user_001,10,2025,0,0
+txn_c1f409a1f3,2026-02-07,239.25,usd,CVS,health,debit,checking,user_001,2,2026,0,0
+txn_b1fa225643,2026-02-21,53.4,usd,Walmart Grocery,groceries,debit,checking,user_003,2,2026,0,0
+txn_7f580c9455,2026-02-11,189.4,usd,Comcast,utilities,debit,checking,user_003,2,2026,1,0
+txn_c375e36830,2026-01-04,15.36,usd,Starbucks,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_a3765252a5,2025-11-19,239.13,usd,H&M,shopping,debit,checking,user_003,11,2025,0,0
+txn_e4484f48ea,2026-03-15,13.3,usd,McDonalds,food_and_drink,debit,credit_card,user_003,3,2026,0,0
+txn_a9a2171573,2025-11-14,16.38,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_002,11,2025,1,0
+txn_252b9f8d62,2025-12-12,276.8,usd,Target,shopping,debit,credit_card,user_003,12,2025,0,0
+txn_8370c884e3,2025-12-19,19.82,usd,Starbucks,food_and_drink,debit,checking,user_003,12,2025,0,0
+txn_ce48ef464c,2025-10-31,5.86,usd,McDonalds,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_9fdf922c9b,2026-03-08,20.06,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_003,3,2026,1,0
+txn_2c91658e14,2025-12-04,57.89,usd,Gym Membership,health,debit,checking,user_001,12,2025,0,0
+txn_053e95f3c7,2025-11-09,252.59,usd,Booking.com,travel,debit,credit_card,user_001,11,2025,0,0
+txn_c1a58d9930,2025-10-02,211.54,usd,Zara,shopping,debit,checking,user_002,10,2025,0,0
+txn_b9c65de149,2026-03-13,33.36,usd,Doctor Visit,health,debit,credit_card,user_003,3,2026,0,0
+txn_fe851673d9,2026-03-14,888.91,usd,Marriott,travel,debit,credit_card,user_002,3,2026,0,0
+txn_e38efb8d54,2026-01-05,175.93,usd,PSE&G,utilities,debit,credit_card,user_003,1,2026,1,0
+txn_ddd582ac46,2025-10-13,42.83,usd,Trader Joes,groceries,debit,checking,user_003,10,2025,0,0
+txn_6bc6d3ca35,2025-12-21,189.6,usd,PSE&G,utilities,debit,checking,user_002,12,2025,1,0
+txn_4d60489f71,2025-12-13,116.97,usd,Costco,groceries,debit,credit_card,user_003,12,2025,0,0
+txn_e2382d7636,2026-02-20,10.97,usd,McDonalds,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_77c38e8966,2025-11-17,183.93,usd,H&M,shopping,debit,checking,user_003,11,2025,0,0
+txn_f0babcabcf,2026-02-20,17.79,usd,NJ Transit,transport,debit,checking,user_003,2,2026,0,0
+txn_7d7b6aed61,2026-02-15,54.31,usd,McDonalds,food_and_drink,debit,credit_card,user_001,2,2026,0,0
+txn_841ad16086,2025-10-13,12.08,usd,Shake Shack,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_6149d1f6fb,2025-10-31,55.18,usd,Con Edison,utilities,debit,checking,user_002,10,2025,1,0
+txn_18a698aabb,2025-12-02,278.52,usd,Target,shopping,debit,credit_card,user_003,12,2025,0,0
+txn_1e624adbb6,2025-10-03,3266.6,usd,Freelance Payment,income,credit,checking,user_001,10,2025,0,0
+txn_691365b1d2,2025-11-11,1116.5,usd,Booking.com,travel,debit,checking,user_002,11,2025,0,0
+txn_4b2d8bebff,2025-10-28,109.98,usd,CVS,health,debit,checking,user_003,10,2025,0,0
+txn_74d7868f86,2026-03-10,649.02,usd,Nike,shopping,debit,credit_card,user_001,3,2026,0,1
+txn_07c39ba4fd,2026-01-03,275.79,usd,Best Buy,shopping,debit,credit_card,user_003,1,2026,0,0
+txn_344f109907,2025-12-11,227.28,usd,Zara,shopping,debit,credit_card,user_001,12,2025,0,0
+txn_0f8e63a3f7,2026-03-01,48.98,usd,Shake Shack,food_and_drink,debit,checking,user_003,3,2026,0,0
+txn_17a2647599,2025-10-01,66.5,usd,Comcast,utilities,debit,checking,user_001,10,2025,1,0
+txn_32a161b878,2025-11-13,12.55,usd,Apple One,subscriptions,debit,checking,user_003,11,2025,1,0
+txn_a83b1515dc,2026-01-22,232.67,usd,Amazon,shopping,debit,checking,user_002,1,2026,0,0
+txn_1638718407,2025-11-12,181.12,usd,PSE&G,utilities,debit,credit_card,user_003,11,2025,1,0
+txn_831b389aac,2025-12-22,38.99,usd,Dunkin,food_and_drink,debit,checking,user_001,12,2025,0,0
+txn_5a3f08ad2c,2026-02-20,21.72,usd,Dunkin,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_dc250aa924,2025-10-26,278.72,usd,Nike,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_ecac26bdae,2026-01-22,21.74,usd,Sweetgreen,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_f0aed3ac9f,2025-12-16,97.17,usd,Costco,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_dd10f571e2,2026-01-10,1966.76,usd,Rent Payment,rent,debit,credit_card,user_003,1,2026,1,0
+txn_68fe7898f3,2025-10-24,14.44,usd,Dunkin,food_and_drink,debit,credit_card,user_002,10,2025,0,0
+txn_aeb1200e36,2026-02-04,53.35,usd,Shake Shack,food_and_drink,debit,credit_card,user_001,2,2026,0,0
+txn_e70ed1eaa9,2025-10-02,20.2,usd,Hulu,subscriptions,debit,checking,user_001,10,2025,1,0
+txn_483eb22eb8,2026-02-17,3014.17,usd,Tax Refund,income,credit,checking,user_002,2,2026,0,0
+txn_95ef32485a,2025-12-13,22.67,usd,Hulu,subscriptions,debit,checking,user_003,12,2025,1,0
+txn_1527d8da91,2025-10-16,196.11,usd,Con Edison,utilities,debit,credit_card,user_001,10,2025,1,0
+txn_551e0c9eb8,2026-01-16,33.38,usd,Shake Shack,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_5050a17da5,2026-02-16,761.28,usd,Airbnb,travel,debit,credit_card,user_001,2,2026,0,0
+txn_b9cf964ded,2026-01-15,2125.26,usd,Rent Payment,rent,debit,credit_card,user_001,1,2026,1,0
+txn_0fab28886f,2026-01-24,26.08,usd,Sweetgreen,food_and_drink,debit,checking,user_003,1,2026,0,0
+txn_73783ceef8,2026-02-13,51.45,usd,Costco,groceries,debit,checking,user_001,2,2026,0,0
+txn_4451b09c5a,2026-01-16,146.41,usd,Gym Membership,health,debit,checking,user_002,1,2026,0,0
+txn_3941c17811,2025-10-13,5.76,usd,Sweetgreen,food_and_drink,debit,credit_card,user_003,10,2025,0,0
+txn_756eaf3599,2025-12-01,189.63,usd,Comcast,utilities,debit,credit_card,user_001,12,2025,1,0
+txn_319f68a6bc,2025-12-03,135.19,usd,Zara,shopping,debit,credit_card,user_003,12,2025,0,0
+txn_0de952107f,2025-12-02,231.28,usd,Walgreens,health,debit,credit_card,user_002,12,2025,0,0
+txn_d8ff1f6646,2025-10-19,63.2,usd,Stop and Shop,groceries,debit,checking,user_002,10,2025,0,0
+txn_f57362c29f,2025-12-03,69.32,usd,Whole Foods,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_f0d9a916d0,2025-12-26,180.5,usd,Walgreens,health,debit,checking,user_002,12,2025,0,0
+txn_910ae916ff,2026-01-06,24.72,usd,Spotify,subscriptions,debit,credit_card,user_001,1,2026,1,0
+txn_64dafc700c,2026-01-03,80.37,usd,Verizon,utilities,debit,credit_card,user_002,1,2026,1,0
+txn_6e2e0ff564,2025-12-24,149.69,usd,Target,shopping,debit,checking,user_003,12,2025,0,0
+txn_81e0bc3645,2025-12-28,217.36,usd,Best Buy,shopping,debit,credit_card,user_001,12,2025,0,0
+txn_e495b56ebb,2025-12-05,83.23,usd,Best Buy,shopping,debit,checking,user_003,12,2025,0,0
+txn_9065f1b7fa,2025-10-21,2018.35,usd,Rent Payment,rent,debit,credit_card,user_001,10,2025,1,0
+txn_f8d8878123,2026-02-01,25.95,usd,Chipotle,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_08b28820ac,2026-02-13,50.84,usd,PSE&G,utilities,debit,credit_card,user_003,2,2026,1,0
+txn_16bb1df229,2025-12-13,22.87,usd,ChatGPT Plus,subscriptions,debit,checking,user_001,12,2025,1,0
+txn_fbef42ed2e,2026-03-02,2175.13,usd,Rent Payment,rent,debit,credit_card,user_002,3,2026,1,0
+txn_6832e39901,2026-02-15,44.93,usd,Amazon,shopping,debit,credit_card,user_001,2,2026,0,0
+txn_2a280b752b,2026-01-20,62.79,usd,Walmart Grocery,groceries,debit,checking,user_002,1,2026,0,0
+txn_645e48eb1a,2025-12-07,78.51,usd,Stop and Shop,groceries,debit,checking,user_001,12,2025,0,0
+txn_3174eb315f,2026-01-28,133.89,usd,Costco,groceries,debit,checking,user_003,1,2026,0,0
+txn_7008f74a02,2026-01-31,185.6,usd,Amazon,shopping,debit,credit_card,user_001,1,2026,0,0
+txn_67c7df2646,2026-03-03,299.65,usd,Amazon,shopping,debit,checking,user_002,3,2026,0,0
+txn_ad102092a1,2026-02-15,72.12,usd,Stop and Shop,groceries,debit,checking,user_001,2,2026,0,0
+txn_0c0bdb4090,2026-02-05,617.35,usd,United Airlines,travel,debit,credit_card,user_003,2,2026,0,0
+txn_19c7a6c7f9,2025-12-17,138.68,usd,Comcast,utilities,debit,credit_card,user_003,12,2025,1,0
+txn_02da5ecf4f,2025-11-06,10.11,usd,Netflix,subscriptions,debit,credit_card,user_002,11,2025,1,0
+txn_79dfb165a1,2025-12-21,73.94,usd,H&M,shopping,debit,checking,user_002,12,2025,0,0
+txn_9a463f87ba,2026-01-29,9.06,usd,Starbucks,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_8f1b684756,2026-02-11,45.18,usd,Gym Membership,health,debit,checking,user_003,2,2026,0,0
+txn_b4fafd4382,2025-10-12,46.45,usd,Starbucks,food_and_drink,debit,credit_card,user_002,10,2025,0,0
+txn_4adcde0d43,2026-02-03,8.58,usd,Starbucks,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_a0e1209c96,2025-10-07,156.07,usd,Whole Foods,groceries,debit,checking,user_003,10,2025,0,0
+txn_e1bab6d98c,2025-10-06,277.78,usd,H&M,shopping,debit,checking,user_001,10,2025,0,0
+txn_2b04183b46,2025-10-22,9.27,usd,NJ Transit,transport,debit,checking,user_003,10,2025,0,0
+txn_b270269173,2025-12-11,94.2,usd,Nike,shopping,debit,credit_card,user_002,12,2025,0,0
+txn_327f116eec,2025-11-08,1198.81,usd,Airbnb,travel,debit,credit_card,user_002,11,2025,0,0
+txn_dafe5d1567,2026-01-19,110.06,usd,Stop and Shop,groceries,debit,credit_card,user_001,1,2026,0,0
+txn_a64186670d,2025-11-23,14.19,usd,Shake Shack,food_and_drink,debit,checking,user_003,11,2025,0,0
+txn_388a963cb9,2025-10-23,95.17,usd,Whole Foods,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_a670edce12,2025-11-05,256.54,usd,Nike,shopping,debit,credit_card,user_002,11,2025,0,0
+txn_53a23bf70f,2025-12-13,4766.13,usd,Freelance Payment,income,credit,credit_card,user_003,12,2025,0,0
+txn_bc251f64ac,2026-01-22,136.48,usd,Con Edison,utilities,debit,checking,user_003,1,2026,1,0
+txn_94b90f10bb,2026-01-27,38.49,usd,Shake Shack,food_and_drink,debit,checking,user_003,1,2026,0,0
+txn_516557d79e,2025-10-28,162.14,usd,Trader Joes,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_e25b3c62a4,2026-02-04,121.05,usd,Walmart Grocery,groceries,debit,checking,user_001,2,2026,0,0
+txn_9dd5a28f8e,2026-01-19,75.32,usd,Lyft,transport,debit,credit_card,user_002,1,2026,0,0
+txn_7f0cfa19c7,2026-02-03,862.89,usd,Airbnb,travel,debit,checking,user_003,2,2026,0,0
+txn_1104b0202b,2026-03-14,22.55,usd,Citi Bike,transport,debit,credit_card,user_001,3,2026,0,0
+txn_2485cb97f9,2026-02-06,14.11,usd,Amazon Prime,subscriptions,debit,credit_card,user_003,2,2026,1,0
+txn_939d0845c2,2026-03-21,32.55,usd,McDonalds,food_and_drink,debit,credit_card,user_001,3,2026,0,0
+txn_b0e9fe8619,2025-10-29,198.65,usd,Con Edison,utilities,debit,checking,user_002,10,2025,1,0
+txn_f34456e74e,2025-12-25,11.12,usd,Shake Shack,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_1460ef7255,2026-01-27,585.76,usd,United Airlines,travel,debit,checking,user_003,1,2026,0,0
+txn_82ddb74ad5,2025-11-13,273.19,usd,Amazon,shopping,debit,credit_card,user_003,11,2025,0,0
+txn_e73239a67f,2025-10-09,4857.57,usd,Freelance Payment,income,credit,checking,user_002,10,2025,0,0
+txn_970f639182,2026-01-02,43.84,usd,Chipotle,food_and_drink,debit,checking,user_003,1,2026,0,0
+txn_41c563687e,2026-01-08,48.89,usd,Sweetgreen,food_and_drink,debit,credit_card,user_003,1,2026,0,0
+txn_831814e152,2025-10-17,5301.7,usd,Freelance Payment,income,credit,credit_card,user_001,10,2025,0,0
+txn_49074eb83f,2026-03-21,158.89,usd,Stop and Shop,groceries,debit,checking,user_001,3,2026,0,0
+txn_6ae7c1ccb0,2025-12-28,3865.96,usd,Freelance Payment,income,credit,checking,user_002,12,2025,0,0
+txn_f9e1fe029b,2026-03-11,30.62,usd,McDonalds,food_and_drink,debit,checking,user_002,3,2026,0,0
+txn_fa55a419ad,2025-12-19,5.18,usd,Lyft,transport,debit,checking,user_003,12,2025,0,0
+txn_3e0cbd048c,2025-10-04,81.97,usd,Stop and Shop,groceries,debit,checking,user_003,10,2025,0,0
+txn_32845eed4c,2025-11-28,3792.06,usd,Freelance Payment,income,credit,credit_card,user_001,11,2025,0,0
+txn_c1d9f3fe7a,2026-03-09,187.29,usd,Verizon,utilities,debit,checking,user_001,3,2026,1,0
+txn_940c8accbc,2025-10-22,18.51,usd,Netflix,subscriptions,debit,credit_card,user_002,10,2025,1,0
+txn_c6fae7e6cf,2026-01-02,55.05,usd,Citi Bike,transport,debit,checking,user_002,1,2026,0,0
+txn_c14cea246e,2025-10-31,10.07,usd,Amazon Prime,subscriptions,debit,checking,user_002,10,2025,1,0
+txn_e592319197,2026-02-16,115.64,usd,Target,shopping,debit,checking,user_002,2,2026,0,0
+txn_43bc93ee36,2026-02-09,166.51,usd,Verizon,utilities,debit,credit_card,user_001,2,2026,1,0
+txn_f471b6819f,2025-12-18,56.98,usd,Dunkin,food_and_drink,debit,checking,user_001,12,2025,0,0
+txn_c6005bedb8,2025-10-01,163.69,usd,Nike,shopping,debit,checking,user_001,10,2025,0,0
+txn_9ee428ce50,2025-11-21,53.1,usd,Comcast,utilities,debit,checking,user_001,11,2025,1,0
+txn_603680da00,2025-10-30,12.25,usd,NJ Transit,transport,debit,credit_card,user_003,10,2025,0,0
+txn_e1ba69ac56,2025-12-25,3.28,usd,EZPass,transport,debit,checking,user_001,12,2025,0,0
+txn_9e76902db4,2025-10-27,23.84,usd,Zara,shopping,debit,credit_card,user_003,10,2025,0,0
+txn_fd3d0c9649,2026-02-24,84.66,usd,Nike,shopping,debit,checking,user_002,2,2026,0,0
+txn_b9ddf26d68,2026-03-05,15.68,usd,EZPass,transport,debit,checking,user_002,3,2026,0,0
+txn_d32313172b,2026-01-04,162.4,usd,Amazon,shopping,debit,checking,user_003,1,2026,0,0
+txn_dba073fa6e,2025-12-07,112.88,usd,Walmart Grocery,groceries,debit,checking,user_001,12,2025,0,0
+txn_3cdb06152c,2026-02-07,79.52,usd,Dental,health,debit,checking,user_003,2,2026,0,0
+txn_c7143ce240,2025-10-07,24.02,usd,Starbucks,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_71e1f81bba,2025-12-30,149.48,usd,Trader Joes,groceries,debit,checking,user_001,12,2025,0,0
+txn_8a80816a92,2025-10-24,197.45,usd,Gym Membership,health,debit,checking,user_002,10,2025,0,0
+txn_f946c2cd90,2025-10-28,16.46,usd,Shake Shack,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_5ec9dc2fe6,2026-02-27,97.38,usd,Zara,shopping,debit,checking,user_003,2,2026,0,0
+txn_c47171817e,2026-02-25,3922.48,usd,Freelance Payment,income,credit,credit_card,user_002,2,2026,0,0
+txn_276ad81a3a,2026-02-27,57.78,usd,Citi Bike,transport,debit,checking,user_003,2,2026,0,0
+txn_4ca4274d94,2026-01-08,4081.91,usd,Payroll Direct Deposit,income,credit,credit_card,user_001,1,2026,0,0
+txn_f42f7f2c83,2026-02-19,90.77,usd,Nike,shopping,debit,checking,user_002,2,2026,0,0
+txn_2652e26df3,2025-10-12,125.36,usd,Con Edison,utilities,debit,checking,user_002,10,2025,1,0
+txn_c0edcbe0cd,2025-12-09,13.56,usd,Starbucks,food_and_drink,debit,credit_card,user_001,12,2025,0,0
+txn_9f76c92112,2025-12-15,250.33,usd,Delta Airlines,travel,debit,checking,user_003,12,2025,0,0
+txn_1d97cc4c2e,2025-10-14,1928.52,usd,Rent Payment,rent,debit,checking,user_003,10,2025,1,0
+txn_31794baccd,2025-10-15,14.23,usd,Apple One,subscriptions,debit,checking,user_002,10,2025,1,0
+txn_47fa41c82b,2025-10-17,64.2,usd,Citi Bike,transport,debit,checking,user_003,10,2025,0,0
+txn_2fb6c7830f,2026-02-02,3926.23,usd,Payroll Direct Deposit,income,credit,credit_card,user_002,2,2026,0,0
+txn_caf54801fd,2026-01-23,78.06,usd,NJ Transit,transport,debit,credit_card,user_003,1,2026,0,0
+txn_d88742ec0f,2026-02-07,51.68,usd,Chipotle,food_and_drink,debit,credit_card,user_003,2,2026,0,0
+txn_b8b4899a1c,2026-01-26,44.57,usd,Dunkin,food_and_drink,debit,checking,user_002,1,2026,0,0
+txn_d2a77d2351,2025-11-25,177.25,usd,H&M,shopping,debit,credit_card,user_002,11,2025,0,0
+txn_d37faac0b2,2025-12-07,25.31,usd,Shake Shack,food_and_drink,debit,checking,user_002,12,2025,0,0
+txn_9b852c9e64,2026-02-03,25.68,usd,McDonalds,food_and_drink,debit,credit_card,user_003,2,2026,0,0
+txn_50ff6a6d9e,2025-12-05,1968.5,usd,Rent Payment,rent,debit,credit_card,user_001,12,2025,1,0
+txn_44b4eeaf67,2025-10-23,198.29,usd,H&M,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_2de51ebbe4,2026-01-18,15.88,usd,NJ Transit,transport,debit,credit_card,user_003,1,2026,0,0
+txn_32f2d328b7,2026-03-21,7.31,usd,Dunkin,food_and_drink,debit,credit_card,user_001,3,2026,0,0
+txn_a9d1747ab2,2026-01-09,169.19,usd,Trader Joes,groceries,debit,credit_card,user_001,1,2026,0,0
+txn_5be77f1be3,2025-10-31,145.36,usd,Trader Joes,groceries,debit,checking,user_002,10,2025,0,0
+txn_5707d6843c,2025-11-16,31.42,usd,McDonalds,food_and_drink,debit,checking,user_002,11,2025,0,0
+txn_1d5fb0964b,2026-01-29,189.86,usd,H&M,shopping,debit,checking,user_001,1,2026,0,0
+txn_8e43d195e3,2025-12-27,157.88,usd,Walmart Grocery,groceries,debit,checking,user_001,12,2025,0,0
+txn_92d12f18e7,2026-02-20,59.62,usd,Shake Shack,food_and_drink,debit,credit_card,user_002,2,2026,0,0
+txn_3bc53d847e,2026-02-05,196.1,usd,Verizon,utilities,debit,checking,user_002,2,2026,1,0
+txn_7e0ad8c874,2026-01-15,150.53,usd,Trader Joes,groceries,debit,checking,user_001,1,2026,0,0
+txn_12da55d212,2026-01-17,19.94,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_003,1,2026,1,0
+txn_bc3ff76192,2025-11-25,26.81,usd,Dental,health,debit,credit_card,user_003,11,2025,0,0
+txn_bcb7ea14b2,2025-10-04,15.13,usd,Chipotle,food_and_drink,debit,credit_card,user_001,10,2025,0,0
+txn_038d970b07,2025-12-30,193.8,usd,Walmart Grocery,groceries,debit,checking,user_001,12,2025,0,0
+txn_e6451221a4,2025-11-28,199.39,usd,Whole Foods,groceries,debit,checking,user_002,11,2025,0,0
+txn_8f49e7ea09,2025-11-26,1102.44,usd,Booking.com,travel,debit,credit_card,user_001,11,2025,0,0
+txn_0b3ae28fbe,2026-01-16,66.65,usd,Con Edison,utilities,debit,checking,user_001,1,2026,1,0
+txn_c8d7a138cc,2025-10-17,14.37,usd,CVS,health,debit,credit_card,user_002,10,2025,0,0
+txn_4e38430387,2025-10-26,183.99,usd,Stop and Shop,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_9a7b67d0e7,2025-11-19,116.49,usd,Costco,groceries,debit,credit_card,user_002,11,2025,0,0
+txn_37a44ccb72,2025-12-09,97.75,usd,Con Edison,utilities,debit,credit_card,user_001,12,2025,1,0
+txn_9821ef1817,2026-03-10,40.81,usd,Citi Bike,transport,debit,checking,user_002,3,2026,0,0
+txn_8f517512ce,2025-11-07,131.13,usd,Zara,shopping,debit,checking,user_002,11,2025,0,0
+txn_0410dbce8a,2026-02-04,1994.11,usd,Rent Payment,rent,debit,checking,user_003,2,2026,1,0
+txn_624b0dadf7,2026-03-06,51.11,usd,Dunkin,food_and_drink,debit,credit_card,user_003,3,2026,0,0
+txn_c297e71fa3,2026-01-05,33.77,usd,McDonalds,food_and_drink,debit,checking,user_003,1,2026,0,0
+txn_e8d5459997,2025-12-22,10.45,usd,ChatGPT Plus,subscriptions,debit,checking,user_001,12,2025,1,0
+txn_83258dfd3f,2025-10-23,3439.1,usd,Payroll Direct Deposit,income,credit,checking,user_002,10,2025,0,0
+txn_b5fdeb20a6,2025-12-05,24.5,usd,Netflix,subscriptions,debit,checking,user_001,12,2025,1,0
+txn_0ca10cd38f,2025-11-30,94.82,usd,PSE&G,utilities,debit,checking,user_003,11,2025,1,0
+txn_4d0f82bd13,2026-01-29,138.14,usd,H&M,shopping,debit,checking,user_001,1,2026,0,0
+txn_24e6017a1a,2026-01-01,58.39,usd,Shake Shack,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_aebbc198b4,2025-11-18,65.23,usd,NJ Transit,transport,debit,checking,user_002,11,2025,0,0
+txn_409ded36e7,2026-02-16,29.63,usd,Chipotle,food_and_drink,debit,checking,user_001,2,2026,0,0
+txn_14aa06e847,2025-12-08,177.42,usd,Whole Foods,groceries,debit,checking,user_001,12,2025,0,0
+txn_bad8a08347,2025-11-19,50.53,usd,Sweetgreen,food_and_drink,debit,credit_card,user_001,11,2025,0,0
+txn_595063b1cd,2025-11-11,20.25,usd,Spotify,subscriptions,debit,checking,user_001,11,2025,1,0
+txn_0198bfb4f8,2026-01-13,34.76,usd,Chipotle,food_and_drink,debit,checking,user_002,1,2026,0,0
+txn_afc1135918,2025-10-26,20.37,usd,Sweetgreen,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_ff5e783d19,2025-12-14,32.64,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_80b2077f7e,2025-11-01,28.02,usd,Citi Bike,transport,debit,checking,user_003,11,2025,0,0
+txn_5cec0fba12,2025-10-19,235.9,usd,H&M,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_a57cd3314b,2025-12-27,5872.33,usd,Freelance Payment,income,credit,checking,user_002,12,2025,0,0
+txn_789c9d1568,2026-03-06,64.55,usd,Amazon,shopping,debit,credit_card,user_002,3,2026,0,0
+txn_9dd03825ad,2026-03-05,931.85,usd,H&M,shopping,debit,checking,user_003,3,2026,0,1
+txn_d12de325e1,2025-11-05,2043.54,usd,Rent Payment,rent,debit,checking,user_003,11,2025,1,0
+txn_02bf0adf9f,2025-12-22,155.22,usd,Comcast,utilities,debit,checking,user_002,12,2025,1,0
+txn_a75ed1099d,2025-11-04,142.45,usd,Stop and Shop,groceries,debit,credit_card,user_002,11,2025,0,0
+txn_e7fe8187d7,2026-03-21,1978.56,usd,Rent Payment,rent,debit,checking,user_003,3,2026,1,0
+txn_74f80f417e,2025-12-12,141.49,usd,Doctor Visit,health,debit,checking,user_001,12,2025,0,0
+txn_496961b211,2025-10-08,16.55,usd,Amazon Prime,subscriptions,debit,credit_card,user_002,10,2025,1,0
+txn_344924ab70,2025-10-28,299.52,usd,Best Buy,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_a721d871a6,2026-01-15,34.92,usd,Sweetgreen,food_and_drink,debit,checking,user_001,1,2026,0,0
+txn_0791956d14,2026-01-01,17.33,usd,Uber,transport,debit,checking,user_003,1,2026,0,0
+txn_ee175092b8,2026-02-25,13.64,usd,Amazon Prime,subscriptions,debit,credit_card,user_003,2,2026,1,0
+txn_e7da0db83b,2026-02-25,22.27,usd,Netflix,subscriptions,debit,credit_card,user_003,2,2026,1,0
+txn_5c6915386b,2025-10-13,134.42,usd,Verizon,utilities,debit,credit_card,user_001,10,2025,1,0
+txn_48b27d7248,2026-01-27,26.36,usd,Citi Bike,transport,debit,credit_card,user_001,1,2026,0,0
+txn_6d86e3a262,2025-10-22,202.4,usd,Amazon,shopping,debit,credit_card,user_002,10,2025,0,0
+txn_a6fb6b567a,2026-02-11,76.31,usd,H&M,shopping,debit,checking,user_003,2,2026,0,0
+txn_3a7a156700,2025-11-16,146.77,usd,Verizon,utilities,debit,credit_card,user_001,11,2025,1,0
+txn_a3c2e7eb9f,2026-01-04,102.39,usd,Target,shopping,debit,checking,user_002,1,2026,0,0
+txn_104b44f8ff,2026-02-14,7.9,usd,Shake Shack,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_82df75e3c7,2026-03-18,8.28,usd,EZPass,transport,debit,checking,user_002,3,2026,0,0
+txn_34bdcad954,2025-11-29,1003.35,usd,United Airlines,travel,debit,checking,user_003,11,2025,0,1
+txn_f6d043f646,2025-11-06,68.91,usd,Dental,health,debit,credit_card,user_001,11,2025,0,0
+txn_901f8e2e6b,2025-10-31,285.99,usd,Best Buy,shopping,debit,credit_card,user_003,10,2025,0,0
+txn_57ab659bac,2026-02-10,3155.5,usd,Tax Refund,income,credit,checking,user_002,2,2026,0,0
+txn_3c9b43b1e4,2026-02-05,3667.43,usd,Freelance Payment,income,credit,checking,user_001,2,2026,0,0
+txn_faa785a0ab,2026-02-18,53.84,usd,Chipotle,food_and_drink,debit,credit_card,user_002,2,2026,0,0
+txn_96f3ecee15,2025-11-19,233.37,usd,Dental,health,debit,credit_card,user_002,11,2025,0,0
+txn_2c917f6d6f,2025-11-15,69.59,usd,Citi Bike,transport,debit,checking,user_003,11,2025,0,0
+txn_808dfcdf51,2026-03-20,54.89,usd,Sweetgreen,food_and_drink,debit,checking,user_001,3,2026,0,0
+txn_84af1c47d1,2025-11-20,9.87,usd,Shake Shack,food_and_drink,debit,credit_card,user_003,11,2025,0,0
+txn_3e796bcf75,2025-11-19,53.89,usd,Shake Shack,food_and_drink,debit,credit_card,user_001,11,2025,0,0
+txn_3691834fdb,2025-11-24,54.21,usd,Starbucks,food_and_drink,debit,credit_card,user_003,11,2025,0,0
+txn_37d57023ec,2025-12-11,144.82,usd,Stop and Shop,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_055e25d6de,2026-02-09,74.34,usd,NJ Transit,transport,debit,credit_card,user_002,2,2026,0,0
+txn_c3841be4e7,2025-10-18,9.66,usd,MTA,transport,debit,credit_card,user_001,10,2025,0,0
+txn_5f573ebe38,2026-02-01,226.13,usd,Gym Membership,health,debit,credit_card,user_002,2,2026,0,0
+txn_d4dadfbe20,2025-10-04,31.84,usd,Shake Shack,food_and_drink,debit,checking,user_002,10,2025,0,0
+txn_f1e4ee6ed4,2025-12-25,49.13,usd,Amazon,shopping,debit,checking,user_003,12,2025,0,0
+txn_7afd5431b8,2025-12-12,4395.4,usd,Tax Refund,income,credit,credit_card,user_001,12,2025,0,0
+txn_120ed01875,2026-01-20,161.24,usd,CVS,health,debit,checking,user_003,1,2026,0,0
+txn_b5d18a9fd9,2026-02-09,252.6,usd,Amazon,shopping,debit,credit_card,user_002,2,2026,0,0
+txn_125bc048bf,2025-10-02,281.67,usd,Best Buy,shopping,debit,credit_card,user_002,10,2025,0,0
+txn_4b36114563,2025-12-03,23.04,usd,Hulu,subscriptions,debit,credit_card,user_002,12,2025,1,0
+txn_4347a7474e,2026-02-23,23.99,usd,MTA,transport,debit,checking,user_002,2,2026,0,0
+txn_0f86b8d891,2025-10-29,58.5,usd,EZPass,transport,debit,checking,user_001,10,2025,0,0
+txn_7445ec2a01,2025-12-08,23.21,usd,Starbucks,food_and_drink,debit,checking,user_002,12,2025,0,0
+txn_742c0b47b5,2025-11-04,18.17,usd,McDonalds,food_and_drink,debit,checking,user_003,11,2025,0,0
+txn_06ceb47bb9,2026-01-22,29.65,usd,Dunkin,food_and_drink,debit,credit_card,user_001,1,2026,0,0
+txn_eebca064cb,2025-12-25,29.33,usd,Starbucks,food_and_drink,debit,checking,user_002,12,2025,0,0
+txn_7c9802baf0,2026-02-27,1039.94,usd,Delta Airlines,travel,debit,checking,user_002,2,2026,0,0
+txn_4e932abe79,2025-10-18,269.15,usd,H&M,shopping,debit,checking,user_001,10,2025,0,0
+txn_cf57f4eb50,2025-10-28,90.02,usd,Gym Membership,health,debit,checking,user_001,10,2025,0,0
+txn_8486884ae2,2026-02-12,600.87,usd,United Airlines,travel,debit,credit_card,user_003,2,2026,0,0
+txn_c520169f73,2025-12-24,44.24,usd,Walmart Grocery,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_724f536395,2026-03-10,59.66,usd,Dunkin,food_and_drink,debit,credit_card,user_003,3,2026,0,0
+txn_20c7434d53,2025-10-06,25.49,usd,CVS,health,debit,credit_card,user_002,10,2025,0,0
+txn_a855187a6d,2026-02-05,14.72,usd,Amazon Prime,subscriptions,debit,checking,user_002,2,2026,1,0
+txn_36de7ac0f5,2025-11-05,59.55,usd,Walmart Grocery,groceries,debit,credit_card,user_001,11,2025,0,0
+txn_8f522523b1,2026-02-13,57.71,usd,Shake Shack,food_and_drink,debit,checking,user_001,2,2026,0,0
+txn_5663981875,2025-11-03,1952.66,usd,Rent Payment,rent,debit,checking,user_001,11,2025,1,0
+txn_7d3bc6ade9,2025-11-10,78.55,usd,Lyft,transport,debit,credit_card,user_002,11,2025,0,0
+txn_11a93187de,2025-10-11,4612.56,usd,Tax Refund,income,credit,credit_card,user_003,10,2025,0,0
+txn_b484aa55a8,2025-10-29,946.72,usd,Best Buy,shopping,debit,checking,user_002,10,2025,0,1
+txn_6201f27cc5,2026-01-28,47.13,usd,Dunkin,food_and_drink,debit,checking,user_003,1,2026,0,0
+txn_d7e60dd23e,2025-12-29,46.27,usd,Uber,transport,debit,checking,user_001,12,2025,0,0
+txn_eb6e2a8479,2025-10-22,56.88,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,10,2025,0,0
+txn_51f696dda4,2026-02-10,43.6,usd,Lyft,transport,debit,credit_card,user_001,2,2026,0,0
+txn_ef9f6b378d,2026-01-12,970.4,usd,Best Buy,shopping,debit,credit_card,user_003,1,2026,0,1
+txn_2b4c66717c,2025-10-26,47.35,usd,Shake Shack,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_dea2807bb6,2026-03-11,26.04,usd,Shake Shack,food_and_drink,debit,credit_card,user_003,3,2026,0,0
+txn_138d14d398,2025-10-16,145.76,usd,Whole Foods,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_3164a7fa08,2026-02-25,13.61,usd,Spotify,subscriptions,debit,credit_card,user_003,2,2026,1,0
+txn_64726f9d89,2025-11-03,54.01,usd,Dunkin,food_and_drink,debit,credit_card,user_001,11,2025,0,0
+txn_b5997928f7,2025-11-19,58.3,usd,Amazon,shopping,debit,checking,user_003,11,2025,0,0
+txn_79b5c01db1,2025-12-26,81.92,usd,H&M,shopping,debit,checking,user_002,12,2025,0,0
+txn_f526f2b0f3,2025-11-09,19.5,usd,Hulu,subscriptions,debit,credit_card,user_002,11,2025,1,0
+txn_f4ef77ff9a,2025-10-22,1967.45,usd,Rent Payment,rent,debit,credit_card,user_001,10,2025,1,0
+txn_7e74c29774,2025-11-11,14.48,usd,ChatGPT Plus,subscriptions,debit,checking,user_001,11,2025,1,0
+txn_baaeeea4d6,2026-03-03,195.04,usd,Trader Joes,groceries,debit,checking,user_001,3,2026,0,0
+txn_4527b82fb9,2025-11-18,33.8,usd,Doctor Visit,health,debit,checking,user_003,11,2025,0,0
+txn_ad3e30d82d,2025-10-18,52.79,usd,NJ Transit,transport,debit,checking,user_001,10,2025,0,0
+txn_5e4466a890,2025-10-04,86.69,usd,Trader Joes,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_462c0c04d7,2025-10-24,1835.54,usd,Rent Payment,rent,debit,checking,user_002,10,2025,1,0
+txn_8b7135823c,2025-12-28,63.84,usd,Uber,transport,debit,checking,user_003,12,2025,0,0
+txn_ce71874187,2025-12-27,83.85,usd,Whole Foods,groceries,debit,checking,user_001,12,2025,0,0
+txn_4ea613ba7a,2025-12-31,47.1,usd,NJ Transit,transport,debit,credit_card,user_002,12,2025,0,0
+txn_a6f05cd6de,2025-12-09,55.88,usd,Lyft,transport,debit,checking,user_002,12,2025,0,0
+txn_f07d04d72c,2026-01-10,119.14,usd,Trader Joes,groceries,debit,checking,user_001,1,2026,0,0
+txn_a52c09f400,2025-11-01,85.23,usd,Walmart Grocery,groceries,debit,checking,user_003,11,2025,0,0
+txn_3b29ff4cf0,2026-02-26,164.0,usd,Booking.com,travel,debit,credit_card,user_003,2,2026,0,0
+txn_632ca6fc1a,2025-11-12,93.7,usd,Stop and Shop,groceries,debit,checking,user_002,11,2025,0,0
+txn_f4f7efe809,2025-12-13,81.08,usd,Costco,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_ec5ffc20ac,2026-03-06,9.71,usd,Chipotle,food_and_drink,debit,credit_card,user_003,3,2026,0,0
+txn_5c07fda4a3,2026-01-27,214.68,usd,H&M,shopping,debit,checking,user_003,1,2026,0,0
+txn_9dfb56c9e0,2025-12-09,1092.63,usd,Booking.com,travel,debit,checking,user_001,12,2025,0,0
+txn_5b00cd5e38,2025-12-13,138.33,usd,Costco,groceries,debit,checking,user_003,12,2025,0,0
+txn_bc5a9ee5a4,2025-10-26,171.24,usd,Trader Joes,groceries,debit,checking,user_003,10,2025,0,0
+txn_7d176c0181,2026-02-04,36.17,usd,Shake Shack,food_and_drink,debit,credit_card,user_003,2,2026,0,0
+txn_b657aa428d,2026-03-14,270.29,usd,H&M,shopping,debit,checking,user_001,3,2026,0,0
+txn_b75898e595,2026-01-10,44.68,usd,NJ Transit,transport,debit,checking,user_002,1,2026,0,0
+txn_aba63c1c3f,2025-11-10,147.73,usd,Verizon,utilities,debit,checking,user_002,11,2025,1,0
+txn_09207a2758,2025-10-12,4458.0,usd,Tax Refund,income,credit,credit_card,user_002,10,2025,0,0
+txn_6224cdd5d6,2025-11-11,22.27,usd,Apple One,subscriptions,debit,checking,user_002,11,2025,1,0
+txn_22cdd9e030,2026-03-21,298.17,usd,Nike,shopping,debit,checking,user_003,3,2026,0,0
+txn_176f5ae14e,2025-12-10,10.89,usd,Dunkin,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_569da64b85,2026-03-19,171.31,usd,Con Edison,utilities,debit,checking,user_002,3,2026,1,0
+txn_dbd720a57b,2025-12-08,169.73,usd,Dental,health,debit,credit_card,user_002,12,2025,0,0
+txn_599ca65c65,2026-01-25,43.19,usd,Lyft,transport,debit,checking,user_002,1,2026,0,0
+txn_118314cdc0,2026-01-17,4647.01,usd,Freelance Payment,income,credit,checking,user_003,1,2026,0,0
+txn_b940648d84,2025-12-15,40.8,usd,Sweetgreen,food_and_drink,debit,credit_card,user_002,12,2025,0,0
+txn_8a060d4241,2026-02-23,186.87,usd,Con Edison,utilities,debit,checking,user_003,2,2026,1,0
+txn_7ccead0967,2025-11-19,39.48,usd,Zara,shopping,debit,credit_card,user_001,11,2025,0,0
+txn_444800ae5e,2025-10-23,23.97,usd,Amazon Prime,subscriptions,debit,checking,user_001,10,2025,1,0
+txn_badaf4ee5e,2025-12-07,20.86,usd,NJ Transit,transport,debit,checking,user_003,12,2025,0,0
+txn_97c6439911,2025-11-07,58.56,usd,McDonalds,food_and_drink,debit,credit_card,user_002,11,2025,0,0
+txn_6518f2010c,2025-10-24,108.81,usd,Trader Joes,groceries,debit,checking,user_001,10,2025,0,0
+txn_85bba11d5a,2026-01-14,188.61,usd,PSE&G,utilities,debit,credit_card,user_001,1,2026,1,0
+txn_f9dd5f8e70,2025-12-15,10.65,usd,Amazon Prime,subscriptions,debit,checking,user_001,12,2025,1,0
+txn_ff75c1d248,2025-12-22,4048.63,usd,Tax Refund,income,credit,checking,user_003,12,2025,0,0
+txn_da4825e5fd,2025-10-22,1038.98,usd,Airbnb,travel,debit,checking,user_003,10,2025,0,0
+txn_8e8a4cee59,2025-12-08,55.78,usd,Dunkin,food_and_drink,debit,checking,user_001,12,2025,0,0
+txn_37c4ef8a65,2025-11-23,15.13,usd,Hulu,subscriptions,debit,credit_card,user_001,11,2025,1,0
+txn_b190b64ed6,2026-01-01,68.21,usd,Nike,shopping,debit,checking,user_002,1,2026,0,0
+txn_0d4a27a0fe,2026-01-10,17.52,usd,ChatGPT Plus,subscriptions,debit,checking,user_001,1,2026,1,0
+txn_6231e697ef,2025-11-18,56.59,usd,Sweetgreen,food_and_drink,debit,checking,user_001,11,2025,0,0
+txn_00a9f97515,2025-11-11,179.82,usd,Costco,groceries,debit,checking,user_002,11,2025,0,0
+txn_645c32d9f5,2026-02-24,48.92,usd,Dunkin,food_and_drink,debit,credit_card,user_002,2,2026,0,0
+txn_eaa78fa5ec,2025-12-22,13.59,usd,Lyft,transport,debit,checking,user_001,12,2025,0,0
+txn_5e63106c9b,2026-02-04,65.48,usd,Uber,transport,debit,checking,user_001,2,2026,0,0
+txn_ed1dee7783,2025-12-03,75.11,usd,Doctor Visit,health,debit,credit_card,user_001,12,2025,0,0
+txn_11245db261,2025-10-12,30.9,usd,Chipotle,food_and_drink,debit,checking,user_002,10,2025,0,0
+txn_6e56c2a245,2025-12-16,3.98,usd,Lyft,transport,debit,credit_card,user_002,12,2025,0,0
+txn_4900e02d2a,2026-02-28,19.05,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_003,2,2026,1,0
+txn_efcf7f879f,2025-11-19,56.41,usd,McDonalds,food_and_drink,debit,checking,user_003,11,2025,0,0
+txn_77a5448751,2026-01-02,1082.66,usd,Booking.com,travel,debit,checking,user_001,1,2026,0,0
+txn_45a7078dd7,2025-11-19,152.54,usd,Trader Joes,groceries,debit,checking,user_003,11,2025,0,0
+txn_145cff115a,2025-10-31,21.15,usd,Spotify,subscriptions,debit,credit_card,user_001,10,2025,1,0
+txn_cae7a7ef26,2026-02-07,4.25,usd,Citi Bike,transport,debit,credit_card,user_002,2,2026,0,0
+txn_87605ce62d,2025-11-26,37.81,usd,EZPass,transport,debit,credit_card,user_003,11,2025,0,0
+txn_a9cc8691ef,2025-10-05,191.46,usd,Nike,shopping,debit,checking,user_001,10,2025,0,0
+txn_924c72cda9,2025-11-08,4857.5,usd,Payroll Direct Deposit,income,credit,credit_card,user_001,11,2025,0,0
+txn_1bb5d396a1,2025-12-09,50.85,usd,Whole Foods,groceries,debit,credit_card,user_001,12,2025,0,0
+txn_0a68f8960f,2025-10-23,172.46,usd,Stop and Shop,groceries,debit,credit_card,user_003,10,2025,0,0
+txn_ddd6e78139,2025-10-13,16.64,usd,Sweetgreen,food_and_drink,debit,checking,user_003,10,2025,0,0
+txn_35774179d5,2026-01-01,5711.3,usd,Payroll Direct Deposit,income,credit,credit_card,user_003,1,2026,0,0
+txn_50aa17cfb2,2025-10-09,24.15,usd,Amazon Prime,subscriptions,debit,checking,user_003,10,2025,1,0
+txn_7837825d0b,2025-10-13,2032.42,usd,Rent Payment,rent,debit,checking,user_003,10,2025,1,0
+txn_7e3ff0a3ff,2026-01-22,4442.34,usd,Payroll Direct Deposit,income,credit,credit_card,user_002,1,2026,0,0
+txn_ab59e0277c,2025-11-18,676.61,usd,Marriott,travel,debit,checking,user_002,11,2025,0,0
+txn_2390e3ddd7,2025-10-14,52.51,usd,MTA,transport,debit,credit_card,user_003,10,2025,0,0
+txn_02e2a14c43,2026-02-23,23.41,usd,Citi Bike,transport,debit,checking,user_001,2,2026,0,0
+txn_0b95ab7307,2025-10-29,23.03,usd,Lyft,transport,debit,credit_card,user_001,10,2025,0,0
+txn_533d903797,2025-10-19,123.33,usd,Dental,health,debit,checking,user_001,10,2025,0,0
+txn_a4c1e1c547,2025-11-25,123.17,usd,Walmart Grocery,groceries,debit,credit_card,user_002,11,2025,0,0
+txn_783d98dc51,2026-03-19,47.99,usd,Doctor Visit,health,debit,credit_card,user_002,3,2026,0,0
+txn_daefb44bb2,2026-01-26,239.13,usd,Zara,shopping,debit,checking,user_002,1,2026,0,0
+txn_7d5719ae29,2026-02-03,65.06,usd,Uber,transport,debit,credit_card,user_003,2,2026,0,0
+txn_2c2e082e84,2025-10-20,274.89,usd,H&M,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_7b0d485589,2025-11-12,12.25,usd,ChatGPT Plus,subscriptions,debit,credit_card,user_003,11,2025,1,0
+txn_c5f6c4e00a,2025-11-16,38.18,usd,Shake Shack,food_and_drink,debit,credit_card,user_003,11,2025,0,0
+txn_a5423d8820,2026-03-19,3807.87,usd,Freelance Payment,income,credit,checking,user_002,3,2026,0,0
+txn_7b5b696314,2026-03-16,93.14,usd,Whole Foods,groceries,debit,credit_card,user_002,3,2026,0,0
+txn_e37d329ca7,2025-11-12,11.33,usd,Dunkin,food_and_drink,debit,checking,user_002,11,2025,0,0
+txn_034137aa1e,2025-11-12,5761.79,usd,Payroll Direct Deposit,income,credit,checking,user_001,11,2025,0,0
+txn_5f9fb190b3,2025-11-19,4730.51,usd,Payroll Direct Deposit,income,credit,checking,user_002,11,2025,0,0
+txn_d15b07645f,2026-01-03,182.22,usd,Walgreens,health,debit,credit_card,user_002,1,2026,0,0
+txn_a9e6bef98e,2025-10-24,56.47,usd,H&M,shopping,debit,credit_card,user_001,10,2025,0,0
+txn_d5e94f8961,2026-03-14,59.75,usd,Sweetgreen,food_and_drink,debit,checking,user_002,3,2026,0,0
+txn_89536b8c91,2025-12-20,212.48,usd,Gym Membership,health,debit,credit_card,user_001,12,2025,0,0
+txn_c689368d0a,2025-12-31,12.51,usd,Sweetgreen,food_and_drink,debit,credit_card,user_001,12,2025,0,0
+txn_96dacdbabc,2025-12-22,12.71,usd,Amazon Prime,subscriptions,debit,credit_card,user_001,12,2025,1,0
+txn_557a3251c5,2026-02-05,59.44,usd,Stop and Shop,groceries,debit,checking,user_002,2,2026,0,0
+txn_a3c14d4874,2025-11-27,38.36,usd,Chipotle,food_and_drink,debit,credit_card,user_001,11,2025,0,0
+txn_71cca7eb06,2025-10-15,49.59,usd,McDonalds,food_and_drink,debit,checking,user_001,10,2025,0,0
+txn_11f4fbb3c7,2025-10-25,19.48,usd,Netflix,subscriptions,debit,credit_card,user_002,10,2025,1,0
+txn_bf17895aa6,2025-10-22,3884.14,usd,Tax Refund,income,credit,credit_card,user_003,10,2025,0,0
+txn_8de5796306,2026-01-31,16.96,usd,Amazon Prime,subscriptions,debit,credit_card,user_002,1,2026,1,0
+txn_349df6bc37,2025-11-07,11.58,usd,McDonalds,food_and_drink,debit,checking,user_003,11,2025,0,0
+txn_39a9392a60,2025-12-24,191.39,usd,Verizon,utilities,debit,checking,user_002,12,2025,1,0
+txn_27a21a86b9,2026-01-24,64.42,usd,Whole Foods,groceries,debit,checking,user_003,1,2026,0,0
+txn_e0f3439efb,2026-01-13,42.14,usd,Chipotle,food_and_drink,debit,credit_card,user_002,1,2026,0,0
+txn_a04eadecfd,2025-10-19,53.17,usd,PSE&G,utilities,debit,checking,user_001,10,2025,1,0
+txn_36011ef5e8,2026-01-02,149.57,usd,Verizon,utilities,debit,credit_card,user_001,1,2026,1,0
+txn_2c0ae7b7a1,2026-02-24,21.92,usd,Shake Shack,food_and_drink,debit,checking,user_003,2,2026,0,0
+txn_e1a57cec1c,2026-01-24,15.66,usd,Apple One,subscriptions,debit,credit_card,user_001,1,2026,1,0
+txn_ec3509989b,2025-12-19,62.79,usd,Zara,shopping,debit,credit_card,user_002,12,2025,0,0
+txn_354a8154d9,2025-11-09,111.23,usd,Trader Joes,groceries,debit,credit_card,user_003,11,2025,0,0
+txn_e2d557f170,2025-11-28,197.49,usd,Doctor Visit,health,debit,checking,user_003,11,2025,0,0
+txn_86732deeab,2025-10-18,12.97,usd,Hulu,subscriptions,debit,credit_card,user_002,10,2025,1,0
+txn_dbb8eeb7a5,2025-10-19,11.34,usd,Dunkin,food_and_drink,debit,credit_card,user_001,10,2025,0,0
+txn_9420ceb8af,2026-02-02,183.97,usd,Best Buy,shopping,debit,credit_card,user_001,2,2026,0,0
+txn_96fa322a6d,2025-11-17,21.43,usd,Apple One,subscriptions,debit,checking,user_001,11,2025,1,0
+txn_a4ebefd449,2026-03-14,220.9,usd,CVS,health,debit,checking,user_003,3,2026,0,0
+txn_0f56485805,2025-10-09,34.55,usd,Walmart Grocery,groceries,debit,checking,user_003,10,2025,0,0
